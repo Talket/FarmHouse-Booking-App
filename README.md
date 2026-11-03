@@ -13,12 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share"><strong>↗ OPEN FARMHOUSE BOOKING ON GOOGLE PLAY</strong></a>
-  <br />
   <sub>Opens the FarmHouse Booking app listing on Google Play · Android product showcase · Source code not published here</sub>
 </p>
 
-> **Install directly:** [FarmHouse Booking on Google Play](https://play.google.com/store/apps/details?id=com.farmhouse.app&pcampaignid=web_share) · Package ID: `com.farmhouse.app`.
+> Package ID: `com.farmhouse.app`.
 
 ---
 
