@@ -160,7 +160,6 @@ Before adding more visuals:
     <img src="assets/google-play-cta.svg" alt="Find FarmHouse Booking on Google Play" width="360" />
   </a>
   <br />
-  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share"><strong>DOWNLOAD FARMHOUSE BOOKING →</strong></a>
 </p>
 
 - **Privacy policy:** [Read the policy](https://github.com/Talket/farmhouse_booking/blob/main/privacy-policy.html)
