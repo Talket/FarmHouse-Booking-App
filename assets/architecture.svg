@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="t d">
+  <title id="t">FarmHouse Chalo high-level product flow</title><desc id="d">Owners submit listings via the Flutter app. Firebase Authentication supports account access. Visitors browse details and contact the owner directly.</desc>
+  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#172018" stroke-opacity=".07"/></pattern><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#668E52" stroke-width="1.4"/></marker></defs>
+  <rect width="1400" height="440" rx="20" fill="#F0F1E9"/><rect width="1400" height="440" rx="20" fill="url(#g)"/>
+  <text x="48" y="48" fill="#557847" font-family="monospace" font-size="15" letter-spacing="3">MARKETPLACE NOTE / A HIGH-LEVEL VIEW</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="45" y="145" width="205" height="126" rx="16" fill="#202820"/><text x="148" y="195" text-anchor="middle" fill="#F1EEE7" font-size="21" font-weight="700">OWNER</text><text x="148" y="229" text-anchor="middle" fill="#C2CBBE" font-size="15">Submits a listing</text>
+    <rect x="320" y="145" width="230" height="126" rx="16" fill="#202820" stroke="#668E52" stroke-width="3"/><text x="435" y="195" text-anchor="middle" fill="#F1EEE7" font-size="21" font-weight="700">FLUTTER APP</text><text x="435" y="229" text-anchor="middle" fill="#C2CBBE" font-size="15">Android product</text>
+    <rect x="650" y="60" width="230" height="108" rx="16" fill="#FFFFFF" stroke="#AAB3A4" stroke-width="2"/><text x="765" y="105" text-anchor="middle" fill="#202820" font-size="21" font-weight="700">FIREBASE AUTH</text><text x="765" y="134" text-anchor="middle" fill="#657060" font-size="14">Account access</text>
+    <rect x="650" y="258" width="230" height="108" rx="16" fill="#FFFFFF" stroke="#668E52" stroke-width="2"/><text x="765" y="303" text-anchor="middle" fill="#202820" font-size="21" font-weight="700">LISTING SERVICES</text><text x="765" y="332" text-anchor="middle" fill="#657060" font-size="14">Property information</text>
+    <rect x="1010" y="145" width="330" height="126" rx="16" fill="#202820"/><text x="1175" y="195" text-anchor="middle" fill="#F1EEE7" font-size="21" font-weight="700">VISITOR</text><text x="1175" y="229" text-anchor="middle" fill="#C2CBBE" font-size="15">Discovers and contacts owner</text>
+  </g>
+  <g fill="none" stroke="#668E52" stroke-width="3" marker-end="url(#a)"><path d="M250 208H310"/><path d="M550 178H605V114H640"/><path d="M550 238H605V312H640"/><path d="M880 312H945V208H1000"/><path d="M1010 245H960V393H435V281"/></g>
+  <g fill="#5D685A" font-family="monospace" font-size="13"><text x="576" y="94">AUTH</text><text x="570" y="295">LISTING FLOW</text><text x="906" y="185">DISCOVERY</text><text x="657" y="417">PROPERTY DETAILS → VISITOR VERIFICATION → DIRECT OWNER CONTACT</text></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-labelledby="t d">
+  <title id="t">Find on Google Play</title><desc id="d">Prominent Google Play search call-to-action badge.</desc>
+  <rect x="3" y="3" width="634" height="144" rx="22" fill="#090D0A" stroke="#A9C78F" stroke-width="5"/>
+  <g transform="translate(42 39)"><path d="M0 0L74 36L0 72Z" fill="#34A853"/><path d="M0 0L40 28L58 18Z" fill="#4285F4"/><path d="M40 44L0 72L58 54Z" fill="#FBBC04"/><path d="M58 18L74 36L58 54L40 44L40 28Z" fill="#EA4335"/></g>
+  <text x="151" y="62" fill="#BFC8B9" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">FIND IT ON</text>
+  <text x="149" y="112" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Google Play</text>
+  <path d="M574 75h27m-10-10 10 10-10 10" fill="none" stroke="#A9C78F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
