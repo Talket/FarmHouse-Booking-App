@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150" role="img" aria-labelledby="t d">
-  <title id="t">Find on Google Play</title><desc id="d">Prominent Google Play search call-to-action badge.</desc>
-  <rect x="3" y="3" width="634" height="144" rx="22" fill="#090D0A" stroke="#A9C78F" stroke-width="5"/>
-  <g transform="translate(42 39)"><path d="M0 0L74 36L0 72Z" fill="#34A853"/><path d="M0 0L40 28L58 18Z" fill="#4285F4"/><path d="M40 44L0 72L58 54Z" fill="#FBBC04"/><path d="M58 18L74 36L58 54L40 44L40 28Z" fill="#EA4335"/></g>
-  <text x="151" y="62" fill="#BFC8B9" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="2">FIND IT ON</text>
-  <text x="149" y="112" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Google Play</text>
-  <path d="M574 75h27m-10-10 10 10-10 10" fill="none" stroke="#A9C78F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170" role="img" aria-labelledby="t d">
+  <title id="t">Download FarmHouse Booking on Google Play</title>
+  <desc id="d">Prominent direct download call to action for the FarmHouse Booking Android app.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18261C"/><stop offset="1" stop-color="#294B34"/></linearGradient></defs>
+  <rect x="3" y="3" width="714" height="164" rx="25" fill="url(#g)" stroke="#B8D5A8" stroke-width="5"/>
+  <g transform="translate(42 48)"><path d="M0 0L74 36L0 72Z" fill="#34A853"/><path d="M0 0L40 28L58 18Z" fill="#4285F4"/><path d="M40 44L0 72L58 54Z" fill="#FBBC04"/><path d="M58 18L74 36L58 54L40 44L40 28Z" fill="#EA4335"/></g>
+  <text x="145" y="63" fill="#D8E8D0" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="2">GET THE ANDROID APP</text>
+  <text x="142" y="119" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Download on Google Play</text>
+  <path d="M650 85h27m-10-10 10 10-10 10" fill="none" stroke="#C4E0B5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

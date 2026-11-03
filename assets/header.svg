@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-labelledby="title desc">
-  <title id="title">FarmHouse Chalo — Product field notes</title>
+  <title id="title">FarmHouse Booking — Product field notes</title>
   <desc id="desc">Editorial dark graphite banner with warm cream typography, a land parcel and pin-inspired diagram, and a restrained green accent.</desc>
   <defs><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity=".07"/></pattern><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202621"/><stop offset="1" stop-color="#101411"/></linearGradient></defs>
   <rect width="1500" height="420" rx="24" fill="url(#bg)"/><rect width="1500" height="420" rx="24" fill="url(#grid)"/>
   <path d="M62 58H1438" stroke="#EDEEE4" stroke-opacity=".22"/>
   <text x="68" y="43" fill="#EDEEE4" font-family="monospace" font-size="14" letter-spacing="3">TALKET / ENGINEERING FIELD NOTES</text>
   <text x="68" y="154" fill="#A9C78F" font-family="monospace" font-size="16" letter-spacing="4">PRODUCT / 02   —   ANDROID</text>
-  <text x="64" y="250" fill="#F1EEE7" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">FarmHouse Chalo</text>
-  <text x="68" y="302" fill="#C8CEC4" font-family="Arial, Helvetica, sans-serif" font-size="25">Discover places. Connect with owners.</text>
+  <text x="64" y="250" fill="#F1EEE7" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700">FarmHouse Booking</text>
+  <text x="68" y="302" fill="#C8CEC4" font-family="Arial, Helvetica, sans-serif" font-size="25">Find stays. Explore places. Book with confidence.</text>
   <text x="68" y="370" fill="#929B91" font-family="monospace" font-size="13" letter-spacing="2">PROPERTY DISCOVERY  /  LISTINGS  /  MARKETPLACE</text>
   <g transform="translate(1060 73)" fill="none" stroke="#A9C78F" stroke-width="3">
     <path d="M0 260L70 214L146 244L236 162L324 188L390 112" stroke-opacity=".9"/>

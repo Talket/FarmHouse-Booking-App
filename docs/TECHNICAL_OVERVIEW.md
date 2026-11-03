@@ -1,6 +1,9 @@
-# FarmHouse Chalo — Technical Overview
+# FarmHouse Booking — Technical Overview
 
 > Public product-engineering notes based on the existing product description and its published privacy policy and terms. This is not a deployment manual or a complete system specification.
+
+**Google Play:** [https://play.google.com/store/apps/details?id=com.farmhouse.app&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.farmhouse.app&pcampaignid=web_share)  
+**Android package:** `com.farmhouse.app`
 
 ## Product roles
 

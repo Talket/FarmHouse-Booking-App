@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="assets/header.svg" alt="FarmHouse Chalo — Engineering Field Notes" width="100%" />
+  <img src="assets/header.svg" alt="FarmHouse Booking — Engineering Field Notes" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/app-icon.png" alt="FarmHouse Chalo app icon" width="112" />
+  <img src="assets/app-icon.png" alt="FarmHouse Booking app icon" width="112" />
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/search?q=FarmHouse%20Chalo&c=apps">
-    <img src="assets/google-play-cta.svg" alt="Find FarmHouse Chalo on Google Play" width="360" />
+  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share">
+    <img src="assets/google-play-cta.svg" alt="Find FarmHouse Booking on Google Play" width="360" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/search?q=FarmHouse%20Chalo&c=apps"><strong>↗ OPEN FARMHOUSE CHALO ON GOOGLE PLAY</strong></a>
+  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share"><strong>↗ OPEN FARMHOUSE BOOKING ON GOOGLE PLAY</strong></a>
   <br />
-  <sub>Opens a Google Play search for FarmHouse Chalo · Android product showcase · Source code not published here</sub>
+  <sub>Opens the FarmHouse Booking app listing on Google Play · Android product showcase · Source code not published here</sub>
 </p>
 
-> **Store-link note:** This prominent button currently opens a Google Play search, not a direct package listing. The app's exact package ID has not yet been verified. Replace this search URL with the direct Play Store share link when available.
+> **Install directly:** [FarmHouse Booking on Google Play](https://play.google.com/store/apps/details?id=com.farmhouse.app&pcampaignid=web_share) · Package ID: `com.farmhouse.app`.
 
 ---
 
 ## 00 / The product
 
-**FarmHouse Chalo** is an Android marketplace-style product that connects farmhouse owners with people looking to discover farmhouse properties.
+**FarmHouse Booking** is an Android marketplace-style product that connects farmhouse owners with people looking to discover farmhouse properties.
 
 The product has two sides: owners can present a property through a listing, while visitors can explore available information—such as location, images, pricing, amenities, rules and availability—and contact the owner to make arrangements.
 
@@ -34,14 +34,14 @@ The product has two sides: owners can present a property through a listing, whil
 
 | | |
 |---|---|
-| **Product** | FarmHouse Chalo |
+| **Product** | FarmHouse Booking |
 | **Category** | Travel / Local discovery / Marketplace |
 | **Platform** | Android |
 | **Mobile technology** | Flutter / Dart |
 | **Authentication** | Firebase Authentication |
 | **Location experience** | Permission-based location access, maps and directions |
 | **Monetization integration** | Google AdMob, as described in the public policy |
-| **Distribution** | Google Play search link above |
+| **Distribution** | Direct Google Play listing above |
 
 ## 02 / Two sides of the marketplace
 
@@ -62,28 +62,28 @@ The product has two sides: owners can present a property through a listing, whil
 - Manage submitted listings and review listing status.
 - Explore promotional options presented in the product artwork.
 
-The published terms describe FarmHouse Chalo as a platform for discovery and communication. Unless the app explicitly states otherwise, booking discussions, payments, cancellations and agreements are handled directly between visitors and farmhouse owners. This showcase does **not** claim that the app guarantees bookings or processes every payment in-app.
+The published terms describe FarmHouse Booking as a platform for discovery and communication. Unless the app explicitly states otherwise, booking discussions, payments, cancellations and agreements are handled directly between visitors and farmhouse owners. This showcase does **not** claim that the app guarantees bookings or processes every payment in-app.
 
 ## 03 / Product gallery
 
-The gallery below contains the FarmHouse Chalo promotional product visuals supplied for this showcase. They communicate the app's visual direction and key journeys: property discovery, property details, favourites, owner listing management, reviews and account access.
+The gallery below contains the FarmHouse Booking promotional product visuals supplied for this showcase. They communicate the app's visual direction and key journeys: property discovery, property details, favourites, owner listing management, reviews and account access.
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>01 · Discover farmhouses</strong><br/><img src="screenshots/01-discover-farmhouses.jpg" alt="FarmHouse Chalo discovery and search promotional visual" width="220"/><br/><sub>Browse listings and explore properties</sub></td>
-    <td align="center" width="33%"><strong>02 · Favourite stays</strong><br/><img src="screenshots/02-favourite-stays.jpg" alt="FarmHouse Chalo saved favourites promotional visual" width="220"/><br/><sub>Save properties for later</sub></td>
-    <td align="center" width="33%"><strong>03 · Property details</strong><br/><img src="screenshots/03-property-details.jpg" alt="FarmHouse Chalo property details promotional visual" width="220"/><br/><sub>Review photos, price, capacity and location</sub></td>
+    <td align="center" width="33%"><strong>01 · Discover farmhouses</strong><br/><img src="screenshots/01-discover-farmhouses.jpg" alt="FarmHouse Booking discovery and search promotional visual" width="220"/><br/><sub>Browse listings and explore properties</sub></td>
+    <td align="center" width="33%"><strong>02 · Favourite stays</strong><br/><img src="screenshots/02-favourite-stays.jpg" alt="FarmHouse Booking saved favourites promotional visual" width="220"/><br/><sub>Save properties for later</sub></td>
+    <td align="center" width="33%"><strong>03 · Property details</strong><br/><img src="screenshots/03-property-details.jpg" alt="FarmHouse Booking property details promotional visual" width="220"/><br/><sub>Review photos, price, capacity and location</sub></td>
   </tr>
   <tr>
-    <td align="center" width="33%"><strong>04 · Owner dashboard</strong><br/><img src="screenshots/04-owner-dashboard.jpg" alt="FarmHouse Chalo owner listing dashboard promotional visual" width="220"/><br/><sub>Manage submitted farmhouse listings</sub></td>
-    <td align="center" width="33%"><strong>05 · Ratings and reviews</strong><br/><img src="screenshots/05-ratings-and-reviews.jpg" alt="FarmHouse Chalo ratings and reviews promotional visual" width="220"/><br/><sub>Property review experience</sub></td>
-    <td align="center" width="33%"><strong>06 · Secure sign-in</strong><br/><img src="screenshots/06-secure-sign-in.jpg" alt="FarmHouse Chalo sign-in promotional visual" width="220"/><br/><sub>Account access screen</sub></td>
+    <td align="center" width="33%"><strong>04 · Owner dashboard</strong><br/><img src="screenshots/04-owner-dashboard.jpg" alt="FarmHouse Booking owner listing dashboard promotional visual" width="220"/><br/><sub>Manage submitted farmhouse listings</sub></td>
+    <td align="center" width="33%"><strong>05 · Ratings and reviews</strong><br/><img src="screenshots/05-ratings-and-reviews.jpg" alt="FarmHouse Booking ratings and reviews promotional visual" width="220"/><br/><sub>Property review experience</sub></td>
+    <td align="center" width="33%"><strong>06 · Secure sign-in</strong><br/><img src="screenshots/06-secure-sign-in.jpg" alt="FarmHouse Booking sign-in promotional visual" width="220"/><br/><sub>Account access screen</sub></td>
   </tr>
 </table>
 
 <p align="center">
   <strong>07 · Account and profile</strong><br/>
-  <img src="screenshots/07-account-profile-redacted.jpg" alt="FarmHouse Chalo profile visual with personal fields hidden" width="300"/><br/>
+  <img src="screenshots/07-account-profile-redacted.jpg" alt="FarmHouse Booking profile visual with personal fields hidden" width="300"/><br/>
   <sub>Profile-management visual; portrait and personal account fields have been blurred for public sharing.</sub>
 </p>
 
@@ -92,7 +92,7 @@ The gallery below contains the FarmHouse Chalo promotional product visuals suppl
 ## 04 / How the product fits together
 
 <p align="center">
-  <img src="assets/architecture.svg" alt="FarmHouse Chalo high-level marketplace flow" width="100%" />
+  <img src="assets/architecture.svg" alt="FarmHouse Booking high-level marketplace flow" width="100%" />
 </p>
 
 The flow is intentionally shown at product level: owners submit property information, visitors discover and review listings, then contact owners to arrange details. The public documentation identifies Firebase Authentication and optional location access. This diagram is not a database schema or a complete production deployment diagram.
@@ -158,11 +158,11 @@ Before adding more visuals:
 ## 09 / Links
 
 <p align="center">
-  <a href="https://play.google.com/store/search?q=FarmHouse%20Chalo&c=apps">
-    <img src="assets/google-play-cta.svg" alt="Find FarmHouse Chalo on Google Play" width="360" />
+  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share">
+    <img src="assets/google-play-cta.svg" alt="Find FarmHouse Booking on Google Play" width="360" />
   </a>
   <br />
-  <a href="https://play.google.com/store/search?q=FarmHouse%20Chalo&c=apps"><strong>OPEN GOOGLE PLAY SEARCH →</strong></a>
+  <a href="https://play.google.com/store/apps/details?id=com.farmhouse.app&amp;pcampaignid=web_share"><strong>DOWNLOAD FARMHOUSE BOOKING →</strong></a>
 </p>
 
 - **Privacy policy:** [Read the policy](https://github.com/Talket/farmhouse_booking/blob/main/privacy-policy.html)

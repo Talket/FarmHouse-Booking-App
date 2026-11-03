@@ -1,4 +1,4 @@
-# FarmHouse Chalo — visual assets
+# FarmHouse Booking — visual assets
 
 This folder contains seven supplied promotional product visuals for the public showcase. They are designed compositions, not untouched device captures. Sample listing data in the artwork is illustrative.
 

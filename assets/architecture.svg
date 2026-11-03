@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="t d">
-  <title id="t">FarmHouse Chalo high-level product flow</title><desc id="d">Owners submit listings via the Flutter app. Firebase Authentication supports account access. Visitors browse details and contact the owner directly.</desc>
+  <title id="t">FarmHouse Booking high-level product flow</title><desc id="d">Owners submit listings via the Flutter app. Firebase Authentication supports account access. Visitors browse details and contact the owner directly.</desc>
   <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#172018" stroke-opacity=".07"/></pattern><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#668E52" stroke-width="1.4"/></marker></defs>
   <rect width="1400" height="440" rx="20" fill="#F0F1E9"/><rect width="1400" height="440" rx="20" fill="url(#g)"/>
   <text x="48" y="48" fill="#557847" font-family="monospace" font-size="15" letter-spacing="3">MARKETPLACE NOTE / A HIGH-LEVEL VIEW</text>
